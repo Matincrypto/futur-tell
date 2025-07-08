@@ -4,3 +4,4 @@ requests
 xlsxwriter
 python-telegram-bot
 openpyxl
+schedule
