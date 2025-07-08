@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+xlsxwriter
+python-telegram-bot
+openpyxl
